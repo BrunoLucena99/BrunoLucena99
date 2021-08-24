@@ -22,10 +22,10 @@
 #### Entre em contato comigo!
 <div style="display:inline-block">
   <a href="mailto:brunohenriquelucena@gmail.com" target="_blank">
-    <img align="center" title="brunohenriquelucena@gmail.com" alt="gmail" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img align="center" alt="linkedin" height="30" src="https://img.shields.io/badge/brunohenriquelucena@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
    <a href="https://www.linkedin.com/in/bruno-lucena99/" target="_blank">
-    <img align="center" alt="linkedin" height="30" src="https://img.shields.io/badge/brunohenriquelucena@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img align="center" title="brunohenriquelucena@gmail.com" alt="gmail" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
